@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitProject</string>
+    <string name="main_screen_text">Git flow lesson</string>
 </resources>
